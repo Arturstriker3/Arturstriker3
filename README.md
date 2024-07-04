@@ -1,8 +1,11 @@
 ## Artur Daniel
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturstriker3&show_icons=true&theme=radical)
+- 👋 Olá, ArturStriker3 é minha conta pessoal.
+- 👀 Conta profissional https://github.com/ArturDelbank
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturstriker3&layout=compact)](https://github.com/Arturstriker3/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturstriker3&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Artur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
