@@ -1,7 +1,7 @@
 ## Artur Daniel
 
 - 👋 Olá, ArturStriker3 é minha conta pessoal.
-- 👀 Conta profissional https://github.com/ArturDelbank
+- 👀 Conta profissional
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturstriker3&layout=compact)](https://github.com/Arturstriker3/github-readme-stats)
 
