@@ -1,7 +1,6 @@
 # 🏗️ About Me:
 I'm a full-stack developer specializing in Vue.js and backend development with NestJS, Node.js, and .NET. I work on microservices, APIs, and SaaS platforms, focusing on scalability, performance, and cloud solutions.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/artur-daniel-712a80123/) 
 
@@ -13,7 +12,7 @@ I'm a full-stack developer specializing in Vue.js and backend development with N
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturstriker3&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arturstriker3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arturstriker3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
