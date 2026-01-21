@@ -1,5 +1,5 @@
 # 🏗️ About Me:
-I'm a full-stack developer specializing in Vue.js and backend development with NestJS, Node.js, and .NET. I work on microservices, APIs, and SaaS platforms, focusing on scalability, performance, and cloud solutions.
+I'm a full-stack developer. I work on microservices, APIs, and SaaS platforms, focusing on scalability, performance, and cloud solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-daniel-712a80123/) 
