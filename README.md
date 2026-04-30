@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Artur Daniel</h1>
 <h3 align="center">
 Software Engineer | TypeScript & Go | Scalable Systems
 </h3>
 
+<p align="center">
+  Systems • APIs • Distributed Architecture
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Backend+Engineer;Node.js+%7C+Go+Developer;Microservices+%26+APIs;Cloud+%26+Scalable+Systems"/>
+  <img src="https://komarev.com/ghpvc/?username=Arturstriker3&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
