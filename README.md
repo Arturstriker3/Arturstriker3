@@ -31,39 +31,6 @@ Software Engineer | TypeScript & Go | Scalable Systems
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧠 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,go,js" />
-</p>
-
-### ⚡ Backend & Architecture
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed_Systems-0A0A0A?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx" />
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge"/>
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
