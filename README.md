@@ -23,8 +23,6 @@ Software Engineer | TypeScript & Go | Scalable Systems
 
 ## 🧠 Tech Stack
 
-## 🧠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,nodejs,bun,react,vue,nuxt,docker,aws,gcp,postgres,mongodb,redis,nginx" />
 </p>
