@@ -99,14 +99,6 @@ Software Engineer | TypeScript & Go | Scalable Systems
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Arturstriker3&icon=5&color=6"/>
-</p>
-
----
-
 ## 🧩 Current Focus
 
 * 🚀 Scaling backend systems
