@@ -24,9 +24,12 @@ Software Engineer | TypeScript & Go | Scalable Systems
 ## 🧠 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,nodejs,bun,docker,aws,gcp,postgres,mongodb,redis,nginx" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,go,docker,aws,postgres,mongodb,redis,nginx,ts,js" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 </p>
 
 ---
